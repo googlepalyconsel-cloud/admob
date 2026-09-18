@@ -1,1 +1,59 @@
-
+{
+  "AppUpdate": {
+    "force_update": false,
+    "update_message": "هذا التطبيق لم يعد مدعوماً، يرجى تثبيت النسخة الجديدة للاستمرار.",
+    "update_url": "https://play.google.com/store/apps/details?id=com.tech.Jackson"
+  },
+  "Ads": {
+    "ad_status" : "1",
+    
+    "_comment" : "admob , google_ad_manager , fan, applovin_max, ironsource, startapp, applovin_discovery",
+    "ad_banner" : "admob",
+    "ad_inter" : "admob",
+    "ad_native" : "none",
+    "openapp" : "admob",
+    "back_up" : "none",
+    "ad_interval" : 3,
+    
+    "AdMob": {
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded": "ca-app-pub-3940256099942544/5224354917",
+      "native": "ca-app-pub-3940256099942544/1044960115",
+      "appopen" : "ca-app-pub-3940256099942544/9257395921"
+    },
+    
+    "ironSource": {
+      "app_key": "12d657f25"
+    },
+    
+    "MAX": {
+      "banner":"2965c66e51e81699",
+      "interstitial":"61a23d63d2461798",
+      "native": "c6258babf97ca328",
+      "appopen" : "d1ac3378c8713d81"
+    },
+    
+    "FAN": {
+      "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    },
+    
+    "GAM": {
+      "banner": "/6499/example/banner",
+      "interstitial": "/6499/example/interstitial",
+      "native": "/6499/example/native",
+      "appopen": "/6499/example/app-open"
+    },
+    
+    "Applovin": {
+      "banner": "be13788b9f2afee5",
+      "interstitial": "1f5e603ebdfc8580"
+    },
+    
+    "StartApp" :{
+        "app_id" : "0"
+    }
+  }
+}
