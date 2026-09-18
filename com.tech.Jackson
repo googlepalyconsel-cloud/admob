@@ -5,10 +5,10 @@
     "update_url": "https://play.google.com/store/apps/details?id=com.tech.Jackson"
   },
   "Ads": {
-    "ad_status" : "0",
+    "ad_status" : "1",
     
     "_comment" : "admob , google_ad_manager , fan, applovin_max, ironsource, startapp, applovin_discovery",
-    "ad_banner" : "admob",
+    "ad_banner" : "none",
     "ad_inter" : "admob",
     "ad_native" : "none",
     "openapp" : "admob",
@@ -17,10 +17,10 @@
     
     "AdMob": {
       "banner": "ca-app-pub-3940256099942544/6300978111",
-      "interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "rewarded": "ca-app-pub-3940256099942544/5224354917",
+      "interstitial": "ca-app-pub-7581468338740073/3444515399",
+      "rewarded": "ca-app-pub-7581468338740073/4123619359",
       "native": "ca-app-pub-3940256099942544/1044960115",
-      "appopen" : "ca-app-pub-3940256099942544/9257395921"
+      "appopen" : "ca-app-pub-7581468338740073/1250044008"
     },
     
     "ironSource": {
