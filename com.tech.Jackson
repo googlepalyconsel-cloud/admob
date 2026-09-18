@@ -8,7 +8,7 @@
     "ad_status" : "1",
     
     "_comment" : "admob , google_ad_manager , fan, applovin_max, ironsource, startapp, applovin_discovery",
-    "ad_banner" : "admob",
+    "ad_banner" : "none",
     "ad_inter" : "admob",
     "ad_native" : "none",
     "openapp" : "admob",
